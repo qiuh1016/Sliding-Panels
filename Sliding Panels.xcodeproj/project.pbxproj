@@ -18,6 +18,9 @@
 		B97B2B401DF136E9000CE535 /* RoomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B97B2B3F1DF136E9000CE535 /* RoomCell.swift */; };
 		B97B2B421DF138CD000CE535 /* PanelTransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = B97B2B411DF138CD000CE535 /* PanelTransition.swift */; };
 		B97B2B441DF144C9000CE535 /* Room.swift in Sources */ = {isa = PBXBuildFile; fileRef = B97B2B431DF144C9000CE535 /* Room.swift */; };
+		B97B2B461DF176EE000CE535 /* TableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = B97B2B451DF176EE000CE535 /* TableViewCell.xib */; };
+		B97B2B481DF17A15000CE535 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B97B2B471DF17A15000CE535 /* TableViewCell.swift */; };
+		B97B2B4A1DF17DA8000CE535 /* Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B97B2B491DF17DA8000CE535 /* Functions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +37,9 @@
 		B97B2B3F1DF136E9000CE535 /* RoomCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoomCell.swift; sourceTree = "<group>"; };
 		B97B2B411DF138CD000CE535 /* PanelTransition.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PanelTransition.swift; sourceTree = "<group>"; };
 		B97B2B431DF144C9000CE535 /* Room.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Room.swift; sourceTree = "<group>"; };
+		B97B2B451DF176EE000CE535 /* TableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TableViewCell.xib; sourceTree = "<group>"; };
+		B97B2B471DF17A15000CE535 /* TableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		B97B2B491DF17DA8000CE535 /* Functions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Functions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,7 +78,10 @@
 				B97B2B281DF10C33000CE535 /* DetailViewController.swift */,
 				B97B2B3B1DF10D28000CE535 /* RoomsViewController.swift */,
 				B97B2B3F1DF136E9000CE535 /* RoomCell.swift */,
+				B97B2B491DF17DA8000CE535 /* Functions.swift */,
 				B97B2B431DF144C9000CE535 /* Room.swift */,
+				B97B2B451DF176EE000CE535 /* TableViewCell.xib */,
+				B97B2B471DF17A15000CE535 /* TableViewCell.swift */,
 				B97B2B411DF138CD000CE535 /* PanelTransition.swift */,
 				B97B2B301DF10C33000CE535 /* Assets.xcassets */,
 				B97B2B321DF10C33000CE535 /* LaunchScreen.storyboard */,
@@ -142,6 +151,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B97B2B461DF176EE000CE535 /* TableViewCell.xib in Resources */,
 				B97B2B341DF10C33000CE535 /* LaunchScreen.storyboard in Resources */,
 				B97B2B311DF10C33000CE535 /* Assets.xcassets in Resources */,
 				B97B2B2C1DF10C33000CE535 /* Main.storyboard in Resources */,
@@ -158,6 +168,8 @@
 				B97B2B2F1DF10C33000CE535 /* Sliding_Panels.xcdatamodeld in Sources */,
 				B97B2B291DF10C33000CE535 /* DetailViewController.swift in Sources */,
 				B97B2B441DF144C9000CE535 /* Room.swift in Sources */,
+				B97B2B4A1DF17DA8000CE535 /* Functions.swift in Sources */,
+				B97B2B481DF17A15000CE535 /* TableViewCell.swift in Sources */,
 				B97B2B271DF10C33000CE535 /* AppDelegate.swift in Sources */,
 				B97B2B421DF138CD000CE535 /* PanelTransition.swift in Sources */,
 				B97B2B3E1DF114EF000CE535 /* DetailView.swift in Sources */,
